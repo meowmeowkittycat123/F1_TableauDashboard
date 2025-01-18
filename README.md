@@ -16,9 +16,7 @@ Formula 1 (F1) is the pinnacle of motorsport, known for its high-speed races, cu
 
     ├── LICENSE
     ├── README.md          <- README for using this project.
-    │   │
-    │   └── f1_cleaned.sql       <- DB creation.
-    
+    │── f1_cleaned.sql       <- DB creation.
     ├── data           <- Datasets used and collected for this project.
 
 
@@ -30,7 +28,7 @@ Not all data sets were used, only those that were uploaded into the data file.
 
 Note: Some Years have different number of rounds, with the older years having fewer rounds due to changes in F1 Regulations. Additionally, certain drivers have raced for more than 1 team a season due to being a reserve/test driver. 
 
-I used SQL to join seperate csv's into one data set saved as f1_cleaned. I mainly used UPDATE and ALTER functions to pull out the necessary columns I needed, by using matching ID's. 
+I used SQL to join seperate csv's into one data set saved as f1_cleaned. I mainly used UPDATE and ALTER functions to pull out the necessary columns I needed, by using matching ID's. I then connected to local host on Tableau to MySQL server. 
 
 # Analysis
 
