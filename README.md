@@ -6,20 +6,20 @@ Dashboard Preview
 
 
 
+## Project Structure
 
-Project Structure
-
-├── LICENSE
-├── README.md          <- README for using this project.
-├── query              <- Code of the DB creation and queries.
-│   │
-│   └── f1_cleaned.sql       <- DB creation.
-│   
-├── reports            <- Folder containing the final reports/results of this project.
-│   │
-│   └── Pizza_Sales_Report.pdf   <- Final analysis report in PDF.
-│   └── query_report.pdf         <- Final query report in PDF for verifying data.
-│   
-├── src                <- Source for this project.
-    │
-    ├── data           <- Datasets used and collected for this project.
+    ├── LICENSE
+    ├── README.md          <- README for using this project.
+    ├── query              <- Code of the DB creation and queries.
+    │   │
+    │   └── f1_cleaned.sql       <- DB creation.
+    │   └── query.sql                <- Final queries.
+    ├── reports            <- Folder containing the final reports/results of this project.
+    │   │
+    │   └── Pizza_Sales_Report.pdf   <- Final analysis report in PDF.
+    │   └── query_report.pdf         <- Final query report in PDF for verifying data.
+    ├── src                <- Source for this project.
+        │
+        ├── data           <- Datasets used and collected for this project.
+        ├── pizza_sales_images       <- Additional images for Dashboards.
+        ├── data_dictionary.csv      <- Data Dictionary for the dataset.
