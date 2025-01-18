@@ -30,6 +30,7 @@ Not all data sets were used, only those that were uploaded into the data file.
 
 Note: Some Years have different number of rounds, with the older years having fewer rounds due to changes in F1 Regulations. Additionally, certain drivers have raced for more than 1 team a season due to being a reserve/test driver. 
 
+I used SQL to join seperate csv's into one data set saved as f1_cleaned. I mainly used UPDATE and ALTER functions to pull out the necessary columns I needed, by using matching ID's. 
 
 # Analysis
 
