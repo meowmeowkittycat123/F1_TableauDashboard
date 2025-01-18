@@ -16,19 +16,10 @@ Formula 1 (F1) is the pinnacle of motorsport, known for its high-speed races, cu
 
     ├── LICENSE
     ├── README.md          <- README for using this project.
-    ├── query              <- Code of the DB creation and queries.
     │   │
     │   └── f1_cleaned.sql       <- DB creation.
-    │   └── query.sql                <- Final queries.
-    ├── reports            <- Folder containing the final reports/results of this project.
-    │   │
-    │   └── Pizza_Sales_Report.pdf   <- Final analysis report in PDF.
-    │   └── query_report.pdf         <- Final query report in PDF for verifying data.
-    ├── src                <- Source for this project.
-        │
-        ├── data           <- Datasets used and collected for this project.
-        ├── pizza_sales_images       <- Additional images for Dashboards.
-        ├── data_dictionary.csv      <- Data Dictionary for the dataset.
+    
+    ├── data           <- Datasets used and collected for this project.
 
 
 # Data Set Overview
