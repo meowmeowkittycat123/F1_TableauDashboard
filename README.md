@@ -1,6 +1,10 @@
 # F1_Tableau Dashboard
+------------------------------------------------
+Formula 1 (F1) is the pinnacle of motorsport, known for its high-speed races, cutting-edge technology, and global appeal. It is a premier single-seater racing championship governed by the Fédération Internationale de l'Automobile (FIA). Since its inaugural season in 1950, F1 has grown into a multi-billion-dollar global spectacle, captivating millions of fans worldwide
 
-Dashboard Preview 
+---------------------------------------------------------
+
+# Dashboard Preview 
 <img width="977" alt="Screenshot 2025-01-18 at 10 24 54 PM" src="https://github.com/user-attachments/assets/ada98e41-c7f1-4dcb-91d1-28ddf40ed4fb" />
 <img width="985" alt="Screenshot 2025-01-18 at 10 25 22 PM" src="https://github.com/user-attachments/assets/9fe0da02-d971-4dd7-8cc0-d60fd3945a51" />
 
@@ -25,6 +29,6 @@ Dashboard Preview
         ├── data_dictionary.csv      <- Data Dictionary for the dataset.
 
 
-#Data Set Overview
+# Data Set Overview
 
 
