@@ -1,4 +1,4 @@
-# F1_TableauDashboard
+# F1_Tableau Dashboard
 
 Dashboard Preview 
 <img width="977" alt="Screenshot 2025-01-18 at 10 24 54 PM" src="https://github.com/user-attachments/assets/ada98e41-c7f1-4dcb-91d1-28ddf40ed4fb" />
@@ -23,3 +23,8 @@ Dashboard Preview
         ├── data           <- Datasets used and collected for this project.
         ├── pizza_sales_images       <- Additional images for Dashboards.
         ├── data_dictionary.csv      <- Data Dictionary for the dataset.
+
+
+#Data Set Overview
+
+
